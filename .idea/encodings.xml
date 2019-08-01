@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ghost-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ghost-api/ghost-goods-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ghost-api/ghost-member-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ghost-api/ghost-message-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ghost-api/ghost-order-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ghost-api/ghost-pay-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ghost-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ghost-goods" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ghost-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ghost-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ghost-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ghost-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ghoste-ureka" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

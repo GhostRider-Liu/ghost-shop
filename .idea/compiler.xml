@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ghost-common" />
+        <module name="ghost-goods" />
+        <module name="ghost-goods-api" />
+        <module name="ghost-member" />
+        <module name="ghost-member-api" />
+        <module name="ghost-message" />
+        <module name="ghost-message-api" />
+        <module name="ghost-order" />
+        <module name="ghost-order-api" />
+        <module name="ghost-pay" />
+        <module name="ghost-pay-api" />
+        <module name="ghoste-ureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ghost-api" target="1.8" />
+      <module name="ghost-common" target="1.7" />
+      <module name="ghost-goods" target="1.7" />
+      <module name="ghost-goods-api" target="1.7" />
+      <module name="ghost-member" target="1.7" />
+      <module name="ghost-member-api" target="1.7" />
+      <module name="ghost-member-api (1)" target="1.7" />
+      <module name="ghost-message" target="1.7" />
+      <module name="ghost-message-api" target="1.7" />
+      <module name="ghost-order" target="1.7" />
+      <module name="ghost-order-api" target="1.7" />
+      <module name="ghost-pay" target="1.7" />
+      <module name="ghost-pay-api" target="1.7" />
+      <module name="ghost-shop" target="1.8" />
+      <module name="ghoste-ureka" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

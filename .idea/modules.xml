@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ghost-api/ghost-api.iml" filepath="$PROJECT_DIR$/ghost-api/ghost-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghost-common/ghost-common.iml" filepath="$PROJECT_DIR$/ghost-common/ghost-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghost-goods/ghost-goods.iml" filepath="$PROJECT_DIR$/ghost-goods/ghost-goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghost-api/ghost-goods-api/ghost-goods-api.iml" filepath="$PROJECT_DIR$/ghost-api/ghost-goods-api/ghost-goods-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghost-member/ghost-member.iml" filepath="$PROJECT_DIR$/ghost-member/ghost-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghost-api/ghost-member-api/ghost-member-api.iml" filepath="$PROJECT_DIR$/ghost-api/ghost-member-api/ghost-member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghost-message/ghost-message.iml" filepath="$PROJECT_DIR$/ghost-message/ghost-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghost-api/ghost-message-api/ghost-message-api.iml" filepath="$PROJECT_DIR$/ghost-api/ghost-message-api/ghost-message-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghost-order/ghost-order.iml" filepath="$PROJECT_DIR$/ghost-order/ghost-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghost-api/ghost-order-api/ghost-order-api.iml" filepath="$PROJECT_DIR$/ghost-api/ghost-order-api/ghost-order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghost-pay/ghost-pay.iml" filepath="$PROJECT_DIR$/ghost-pay/ghost-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghost-api/ghost-pay-api/ghost-pay-api.iml" filepath="$PROJECT_DIR$/ghost-api/ghost-pay-api/ghost-pay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghost-shop.iml" filepath="$PROJECT_DIR$/ghost-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghoste-ureka/ghoste-ureka.iml" filepath="$PROJECT_DIR$/ghoste-ureka/ghoste-ureka.iml" />
+    </modules>
+  </component>
+</project>

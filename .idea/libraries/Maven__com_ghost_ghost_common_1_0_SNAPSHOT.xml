@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ghost:ghost-common:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://C:/JAVA/MAVEN/repository/com/ghost/ghost-common/1.0-SNAPSHOT/ghost-common-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/JAVA/MAVEN/repository/com/ghost/ghost-common/1.0-SNAPSHOT/ghost-common-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/JAVA/MAVEN/repository/com/ghost/ghost-common/1.0-SNAPSHOT/ghost-common-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
