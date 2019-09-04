@@ -12,5 +12,11 @@ public class GhostEurekaApplication {
 
         SpringApplication.run(GhostEurekaApplication.class, args);
     }
+
 }
+
+
+
+
+
 
