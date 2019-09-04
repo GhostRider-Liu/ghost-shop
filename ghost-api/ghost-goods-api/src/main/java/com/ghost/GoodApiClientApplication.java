@@ -20,8 +20,8 @@ public class GoodApiClientApplication {
 
     @Value("${server.port}")
     String port;
-    @GetMapping("/hi")
-    public String home(@RequestParam String name){
-        return "hi "+name+",I'm from port:" +port;
+    @RequestMapping("/hi")
+    public String home(){
+        return "hi ,I'm from port:" +port;
     }
 }
